@@ -1,1 +1,5 @@
 ezdxf
+sentence-transformers
+numpy
+streamlit
+watchdog
