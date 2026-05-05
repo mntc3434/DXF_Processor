@@ -1,0 +1,111 @@
+DXF EVALUATION REPORT
+==============================
+
+File: con-128_stair
+  [DIFF] Layer 'BEAM': Test=17, Truth=38 (Diff=-21, 55.3%)
+  [DIFF] Layer 'D7': Test=34, Truth=17 (Diff=17, 100.0%)
+  [OK] Layer 'ENG_beton ole': Exact match (41 entities)
+  [OK] Layer 'ENG_level': Exact match (30 entities)
+  [OK] Layer 'HATCH': Exact match (8 entities)
+  [DIFF] Layer 'IRON': Test=29, Truth=7 (Diff=22, 314.3%)
+  [DIFF] Layer 'MABAT': Test=7, Truth=14 (Diff=-7, 50.0%)
+  [OK] Layer 'P-lines': Exact match (34 entities)
+  [DIFF] Layer 'TXT': Test=7, Truth=68 (Diff=-61, 89.7%)
+  [OK] Layer 'V': Exact match (257 entities)
+  [OK] Layer 'W': Exact match (157 entities)
+  [DIFF] Layer 'W-Conc': Test=47, Truth=48 (Diff=-1, 2.1%)
+  [DIFF] Layer 'break': Test=12, Truth=57 (Diff=-45, 78.9%)
+  [DIFF] Layer 'dim': Test=5, Truth=144 (Diff=-139, 96.5%)
+  [OK] Layer 'dim-50-v': Exact match (419 entities)
+  [OK] Layer 'otm': Exact match (26 entities)
+  [OK] Layer 'wall': Exact match (2 entities)
+  Overall Entities: Test=1136, Truth=5897
+------------------------------
+
+File: NN-CON-130-stair-V0
+  [DIFF] Layer 'BEAM': Test=50, Truth=71 (Diff=-21, 29.6%)
+  [DIFF] Layer 'B_K.BINYAN': Test=7, Truth=12 (Diff=-5, 41.7%)
+  [OK] Layer 'C-TEXT4': Exact match (12 entities)
+  [DIFF] Layer 'D7': Test=150, Truth=120 (Diff=30, 25.0%)
+  [DIFF] Layer 'DIM': Test=1137, Truth=1284 (Diff=-147, 11.4%)
+  [OK] Layer 'ENG_beton nifsak': Exact match (9 entities)
+  [OK] Layer 'ENG_beton ole': Exact match (44 entities)
+  [OK] Layer 'ENG_level': Exact match (55 entities)
+  [DIFF] Layer 'HATCH': Test=73, Truth=94 (Diff=-21, 22.3%)
+  [DIFF] Layer 'IRON': Test=51, Truth=7 (Diff=44, 628.6%)
+  [DIFF] Layer 'MABAT': Test=214, Truth=731 (Diff=-517, 70.7%)
+  [OK] Layer 'P-lines': Exact match (77 entities)
+  [DIFF] Layer 'TXT': Test=7, Truth=507 (Diff=-500, 98.6%)
+  [OK] Layer 'V': Exact match (444 entities)
+  [OK] Layer 'W': Exact match (246 entities)
+  [DIFF] Layer 'W-Conc': Test=362, Truth=366 (Diff=-4, 1.1%)
+  [DIFF] Layer 'WALL-10': Test=13, Truth=70 (Diff=-57, 81.4%)
+  [DIFF] Layer 'break': Test=8, Truth=53 (Diff=-45, 84.9%)
+  [OK] Layer 'l4': Exact match (67 entities)
+  [OK] Layer 'otm': Exact match (154 entities)
+  Overall Entities: Test=3180, Truth=16175
+------------------------------
+
+File: NN-CON-131-stair-V0
+  [DIFF] Layer 'BEAM': Test=58, Truth=81 (Diff=-23, 28.4%)
+  [DIFF] Layer 'B_K.BINYAN': Test=6, Truth=31 (Diff=-25, 80.6%)
+  [OK] Layer 'C-TEXT4': Exact match (8 entities)
+  [DIFF] Layer 'D7': Test=156, Truth=122 (Diff=34, 27.9%)
+  [DIFF] Layer 'DIM': Test=1176, Truth=1372 (Diff=-196, 14.3%)
+  [DIFF] Layer 'ENG_beton nifsak': Test=15, Truth=16 (Diff=-1, 6.2%)
+  [OK] Layer 'ENG_beton ole': Exact match (45 entities)
+  [OK] Layer 'ENG_level': Exact match (57 entities)
+  [DIFF] Layer 'HATCH': Test=80, Truth=107 (Diff=-27, 25.2%)
+  [DIFF] Layer 'IRON': Test=52, Truth=7 (Diff=45, 642.9%)
+  [DIFF] Layer 'MABAT': Test=244, Truth=828 (Diff=-584, 70.5%)
+  [DIFF] Layer 'P-lines': Test=77, Truth=94 (Diff=-17, 18.1%)
+  [DIFF] Layer 'TXT': Test=7, Truth=526 (Diff=-519, 98.7%)
+  [DIFF] Layer 'V': Test=472, Truth=499 (Diff=-27, 5.4%)
+  [DIFF] Layer 'W': Test=262, Truth=278 (Diff=-16, 5.8%)
+  [DIFF] Layer 'W-Conc': Test=360, Truth=381 (Diff=-21, 5.5%)
+  [DIFF] Layer 'WALL-10': Test=16, Truth=80 (Diff=-64, 80.0%)
+  [DIFF] Layer 'break': Test=8, Truth=53 (Diff=-45, 84.9%)
+  [OK] Layer 'l4': Exact match (50 entities)
+  [OK] Layer 'otm': Exact match (154 entities)
+  Overall Entities: Test=3303, Truth=16713
+------------------------------
+
+File: ST-(6142-01)-1-GEN-STAIR
+  [DIFF] Layer 'BEAM': Test=8, Truth=29 (Diff=-21, 72.4%)
+  [DIFF] Layer 'D7': Test=97, Truth=60 (Diff=37, 61.7%)
+  [DIFF] Layer 'DIM': Test=858, Truth=876 (Diff=-18, 2.1%)
+  [OK] Layer 'ENG_beton nifsak': Exact match (10 entities)
+  [OK] Layer 'ENG_beton ole': Exact match (27 entities)
+  [OK] Layer 'ENG_level': Exact match (47 entities)
+  [OK] Layer 'HATCH': Exact match (10 entities)
+  [DIFF] Layer 'IRON': Test=39, Truth=7 (Diff=32, 457.1%)
+  [OK] Layer 'P-lines': Exact match (73 entities)
+  [DIFF] Layer 'TXT': Test=7, Truth=37 (Diff=-30, 81.1%)
+  [OK] Layer 'V': Exact match (198 entities)
+  [OK] Layer 'W': Exact match (320 entities)
+  [OK] Layer 'W-Conc': Exact match (167 entities)
+  [DIFF] Layer 'break': Test=20, Truth=65 (Diff=-45, 69.2%)
+  [OK] Layer 'dim-25': Exact match (10 entities)
+  [OK] Layer 'otm': Exact match (48 entities)
+  Overall Entities: Test=1939, Truth=9569
+------------------------------
+
+File: ST-(6142-01)-3-GEN-STAIR
+  [DIFF] Layer 'BEAM': Test=10, Truth=31 (Diff=-21, 67.7%)
+  [DIFF] Layer 'D7': Test=95, Truth=59 (Diff=36, 61.0%)
+  [DIFF] Layer 'DIM': Test=878, Truth=885 (Diff=-7, 0.8%)
+  [OK] Layer 'ENG_beton ole': Exact match (15 entities)
+  [OK] Layer 'ENG_level': Exact match (47 entities)
+  [OK] Layer 'HATCH': Exact match (10 entities)
+  [DIFF] Layer 'IRON': Test=39, Truth=7 (Diff=32, 457.1%)
+  [OK] Layer 'P-lines': Exact match (72 entities)
+  [DIFF] Layer 'TXT': Test=7, Truth=32 (Diff=-25, 78.1%)
+  [OK] Layer 'V': Exact match (190 entities)
+  [OK] Layer 'W': Exact match (320 entities)
+  [OK] Layer 'W-Conc': Exact match (57 entities)
+  [DIFF] Layer 'break': Test=20, Truth=65 (Diff=-45, 69.2%)
+  [OK] Layer 'dim-25': Exact match (10 entities)
+  [OK] Layer 'otm': Exact match (48 entities)
+  Overall Entities: Test=1818, Truth=9342
+------------------------------
+
