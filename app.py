@@ -1,7 +1,7 @@
 import streamlit as st
 from pathlib import Path
 import time
-.........................
+........................
 # Simple Page Confi
 st.set_page_config(page_title="SAMRI DXF", layout="wide")
 
